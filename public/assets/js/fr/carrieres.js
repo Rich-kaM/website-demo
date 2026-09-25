@@ -1,0 +1,2 @@
+import '/assets/js/common.js';
+fetch('/api/jobs').then(r=>r.json()).then(data=>{const box=document.querySelector('[data-jobs]');if(data.jobs&&data.jobs.length){box.innerHTML=data.jobs.map(j=>`<article class="card" style="margin-top:14px"><span class="pill">${j.department||''}</span><h3>${j.title}</h3><p>${j.location||''} · ${j.contract_type||''}</p><p>${j.summary||''}</p></article>`).join('')}}).catch(()=>{});

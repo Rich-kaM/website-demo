@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-labelledby="title desc">
+  <title id="title">APAH - Africa Power Advisory Holding</title>
+  <desc id="desc">Geometric mint and blue mark beside the APAH wordmark and company name.</desc>
+  <g transform="translate(10 12)">
+    <path d="M48 111C19 96 18 73 35 47L63 5c12-18 40-7 44 16 6 33-12 75-59 90Z" fill="#62c7a8"/>
+    <path d="M115 22 169 111H82c29-18 42-48 33-89Z" fill="#58b9c6"/>
+    <path d="M94 111c15-17 23-34 24-55 8 18 10 37 3 55Z" fill="#071a32" opacity=".92"/>
+  </g>
+  <g fill="#ffffff" font-family="Arial, Helvetica, sans-serif">
+    <text x="205" y="92" font-size="76" font-weight="700" letter-spacing="3">APAH</text>
+    <text x="208" y="125" font-size="13" font-weight="700" letter-spacing="4.2">AFRICA POWER ADVISORY HOLDING</text>
+  </g>
+</svg>
